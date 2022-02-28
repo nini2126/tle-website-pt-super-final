@@ -15,10 +15,10 @@
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<font face="cinzel" size="6">
-			<a href="https://www.canva.com/design/DAE5SA5pMiQ/9NPvBkZJcyfiWp02-NY8TQ/view?utm_content=DAE5SA5pMiQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank">CAE</a>&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://www.canva.com/design/DAE5itSR1rM/ragKsIWnuJJMEmPkhBAeSg/view?utm_content=DAE5itSR1rM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank">CLE</a>&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://www.canva.com/design/DAE5oivCjMc/_74mb2LTQ2tTEP1WXJxG2w/watch?utm_content=DAE5oivCjMc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank">MATH</a>&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://www.canva.com/design/DAE5jBpu_V8/UrXuGD-K_5HCU9j1beVM4Q/view?utm_content=DAE5jBpu_V8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank">MEMBERS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.canva.com/design/DAE5SA5pMiQ/9NPvBkZJcyfiWp02-NY8TQ/view?utm_content=DAE5SA5pMiQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">CAE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.canva.com/design/DAE5itSR1rM/ragKsIWnuJJMEmPkhBAeSg/view?utm_content=DAE5itSR1rM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">CLE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.canva.com/design/DAE5oivCjMc/_74mb2LTQ2tTEP1WXJxG2w/watch?utm_content=DAE5oivCjMc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">MATH</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.canva.com/design/DAE5jBpu_V8/UrXuGD-K_5HCU9j1beVM4Q/view?utm_content=DAE5jBpu_V8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">MEMBERS</a>&nbsp;&nbsp;&nbsp;&nbsp;
 		</font>
 	</h3>
 	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
